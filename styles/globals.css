@@ -1,16 +1,7 @@
-html,
-body {
+@import url('//db.onlinewebfonts.com/c/522b5b71d5ed6bb1a09b856ee32eb402?family=FF+Kava');
+
+html, body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-}
-
-a {
-  color: inherit;
-  text-decoration: none;
-}
-
-* {
-  box-sizing: border-box;
+  font-family: 'FF Kava';
 }
