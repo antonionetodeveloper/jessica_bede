@@ -1,4 +1,7 @@
-@import url('https://db.onlinewebfonts.com/c/522b5b71d5ed6bb1a09b856ee32eb402?family=FF+Kava');
+@font-face {
+  font-family: 'FF Kava';
+  src: url('./font.ttf') format('truetype');
+}
 
 html, body {
   padding: 0;
