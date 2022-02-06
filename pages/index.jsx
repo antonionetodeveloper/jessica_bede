@@ -1,5 +1,4 @@
 import Head from 'next/head'
-import Image from 'next/image'
 
 import { Header, Main } from '../styles/home'
 
@@ -8,7 +7,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Jessica Bede</title>
+        <title>Jessica Cabede</title>
       </Head>
 
 
